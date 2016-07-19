@@ -1,6 +1,6 @@
 # WaveView
 A view to display wave effect.
-
+http://www.jianshu.com/p/e711e22e053e
 ## Screenshot
 ![Screenshot](screenshot.gif)
 
